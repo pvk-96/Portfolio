@@ -88,43 +88,43 @@ export const portfolioConfig: PortfolioConfig = {
         title: "AWS Academy Graduate",
         issuer: "Amazon Web Services",
         date: "2025",
-        fileUrl: "public/Certificates/AWS-cloud.pdf",
+        //fileUrl: "public/Certificates/AWS-cloud.pdf",
       },
       {
         id: "Internship",
         title: "Internship on Artifical Intelligence",
         issuer: "Pantech Solutions",
         date: "2025",
-        imageUrl: "public/Certificates/AIintern.jpeg",
+        //imageUrl: "public/Certificates/AIintern.jpeg",
       },
       {
         id: "Be10X",
         title: "AI Tools Workshop",
         issuer: "Be10X",
         date: "2025",
-        fileUrl: "public/Certificates/be10x.pdf",
+        //fileUrl: "public/Certificates/be10x.pdf",
       },
       {
         id: "AI-ML BootCamp",
         title: "Build an AI that sees Boot Camp",
         issuer: "DevTown",
         date: "2025",
-        fileUrl: "public/Certificates/AI-ML.pdf",
+        //fileUrl: "public/Certificates/AI-ML.pdf",
       },
       {
         id: "Anthropic Academy",
         title: "Anthropic Academy Courses",
         issuer: "Anthropic",
         date: "2025",
-        certificates: [
-          { name: "Introduction to MCP", fileUrl: "public/Certificates/Anthropic/Anthropic-1.pdf" },
-          { name: "MCP Advanced", fileUrl: "public/Certificates/Anthropic/Anthropic-2.pdf" },
-          { name: "AI Fluency: Framework & Foundations", fileUrl: "public/Certificates/Anthropic/Anthropic-3.pdf" },
-          { name: "Claude with Anthropic API", fileUrl: "public/Certificates/Anthropic/Anthropic-4.pdf" },
-          { name: "Claude with Amazon Bedrock", fileUrl: "public/Certificates/Anthropic/Anthropic-5.pdf" },
-          { name: "Claude Code in Action", fileUrl: "public/Certificates/Anthropic/Anthropic-6.pdf" },
-          { name: "Claude with Google Vertex AI", fileUrl: "public/Certificates/Anthropic/Anthropic-7.pdf" },
-        ]
+        //certificates: [
+          //{ name: "Introduction to MCP", fileUrl: "public/Certificates/Anthropic/Anthropic-1.pdf" },
+          //{ name: "MCP Advanced", fileUrl: "public/Certificates/Anthropic/Anthropic-2.pdf" },
+          //{ name: "AI Fluency: Framework & Foundations", fileUrl: "public/Certificates/Anthropic/Anthropic-3.pdf" },
+          //{ name: "Claude with Anthropic API", fileUrl: "public/Certificates/Anthropic/Anthropic-4.pdf" },
+          //{ name: "Claude with Amazon Bedrock", fileUrl: "public/Certificates/Anthropic/Anthropic-5.pdf" },
+          //{ name: "Claude Code in Action", fileUrl: "public/Certificates/Anthropic/Anthropic-6.pdf" },
+          //{ name: "Claude with Google Vertex AI", fileUrl: "public/Certificates/Anthropic/Anthropic-7.pdf" },
+        //]
       }
       
     ],
