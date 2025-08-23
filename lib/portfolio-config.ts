@@ -125,7 +125,7 @@ export const portfolioConfig: PortfolioConfig = {
           //{ name: "Claude Code in Action", fileUrl: "public/Certificates/Anthropic/Anthropic-6.pdf" },
           //{ name: "Claude with Google Vertex AI", fileUrl: "public/Certificates/Anthropic/Anthropic-7.pdf" },
         //]
-      }
+      },
       {
         id: "BSNL Internship",
         title: "I/P Networks Internship at BSNL",
